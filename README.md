@@ -13,6 +13,7 @@ I'm a business analyst who works on enterprise platforms: how they're configured
 | Project | What it is |
 |---|---|
 | [**US Job Market Pulse**](https://github.com/rohitkanduri24-lgtm/us-job-market-pulse) | A weekly-refreshed dashboard on US labor-market and layoff trends, built on public data with Python, pandas, SQL and GitHub Actions. |
+| **Research program (coming soon)** | Measurement tools and analysis code for studying value conflict between enterprise platforms and teams. Public after peer review. |
 
 ## Background
 
